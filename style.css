@@ -1,3 +1,261 @@
-body{
-    background-color:pink;
+#homeBody{
+    background-color:orange;
+}
+#homeheader{
+    Color:black;
+    text-align:center;
+    font-size:50px;
+}
+#hometext{
+     Color:black;
+    text-align:center;
+    font-size:40px;
+    position:fixed;
+}
+#leftblink{
+     Color:black;
+    position:fixed;
+    top:70%;
+    bottom:30%;
+    left:9%;
+    font-size:30px;
+}
+#rightblink{
+     Color:black;
+    position:fixed;
+    top:70%;
+    bottom:30%;
+    right:10%;
+    left:60%;
+    font-size:30px;
+}
+#doto1{
+    height:150px;
+    width:150px;
+    position:fixed;
+    bottom:75%;
+    right:1%;
+}
+#digitan1{
+    height:150px;
+    width:120px;
+    position:fixed;
+    bottom:75%;
+    left:1%;
+}
+#mcqueen{
+    height:150px;
+    width:150px;
+    position:fixed;
+    top:82%;
+    left:1%;
+}
+#newone{
+    height:150px;
+    width:150px;
+    position:fixed;
+    top:82%;
+    left:1%;
+}
+#rice{
+    height:150px;
+    width:150px;
+    position:fixed;
+    top:82%;
+    bottom:18%;
+    right:1%;
+}
+#ove{
+    height:370px;
+    width:190px;
+    position:fixed;
+    top:50%;
+    right:47%;
+}
+#hishi{
+    height:150px;
+    width:150px;
+    position:fixed;
+    top:50%;
+    right:1%;
+}
+#gel{
+    height:250px;
+    width:200px;
+    position:fixed;
+    top:43%;
+    left:1%;
+}
+#historybody{
+    background-color:rgb(131, 155, 235);
+}
+#historytitle{
+    color:white;
+    text-align:center;
+    font-size:50px;
+}
+#chevacci{
+    height:250px;
+    width:250px;
+    position:fixed;
+    top:70%;
+    left:5%;
+}
+#vivlios{
+    height:250px;
+    width:250px;
+    position:fixed;
+    top:70%;
+    right:5%;
+}
+#horsepro{
+    position:fixed;
+    left:5%;
+}
+#eldenring{
+    position:fixed;
+    right:42%;
+    top:20%;
+}
+#gustav{
+    position:fixed;
+    right:7%;
+}
+#racePara{
+    font-size:25px;
+    position:fixed;
+    left:6%;
+    bottom:50%;
+    color:white;
+}
+#eldenPara{
+    font-size:25px;
+    position:fixed;
+    bottom:50%;
+    left:40%;
+    color:white;
+}
+#gustavPara{
+    font-size:25px;
+    position:fixed;
+    bottom:50%;
+    right:6%;
+    color:white;
+}
+#historyme{
+    font-size:30px;
+    position:fixed;
+    top:50%;
+    right:10%;
+    color:white;
+}
+.IDFhouse{
+    position:fixed;
+    right:42%;
+    bottom:5%;
+    height:300px;
+    width:300px;
+}
+.gohome{
+    font-size:30px;
+    color:white;
+    position:fixed;
+    bottom:22%;
+    right:48%;
+}
+#aboutmebody{
+    background-color:rgb(192, 240, 187);
+}
+#aboutmeheader{
+    text-align:center;
+}
+#track{
+    position:fixed;
+    bottom:35%;
+    left:5%;
+}
+#agneschem{
+    position:fixed;
+    bottom:35%;
+    left:30%;
+}
+#math{
+    position:fixed;
+    bottom:35%;
+    left:60%;
+}
+#agnescomp{
+    position:fixed;
+    bottom:35%;
+    left:85%;
+}
+#think{
+    position:fixed;
+    bottom:61%;
+    left:92%;
+    height:100px;
+    width:100px;
+}
+#computer{
+    position:fixed;
+    bottom:64%;
+    left:93.7%;
+    height:45px;
+    width:45px;
+}
+#trackpara{
+    text-size:40px;
+    position:fixed;
+    bottom:28%;
+    left:6.47%;
+}
+#chempara{
+    text-size:40px;
+    position:fixed;
+    bottom:28%;
+    left:33%;
+}
+#mathpara{
+    text-size:40px;
+    position:fixed;
+    bottom:28%;
+    left:63.3%;
+}
+#webpara{
+    text-size:40px;
+    position:fixed;
+    bottom:28%;
+    left:85%;
+}
+#gohome2{
+    font-size:30px;
+    position:fixed;
+    bottom:22%;
+    right:48%;
+}
+#danstu{
+    height:150px;
+    width:150px;
+    position:fixed;
+    top:82%;
+    right:1%;
+}
+#cafe{
+    height:150px;
+    width:150px;
+    position:fixed;
+    bottom:75%;
+    right:1%;
+}
+#fuji{
+    height:150px;
+    width:150px;
+    position:fixed;
+    bottom:75%;
+    left:1%;
+}
+#groupdance{
+    position:fixed;
+    bottom:60%;
+    left:36%;
 }
