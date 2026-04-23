@@ -1,6 +1,36 @@
 #homeBody{
     background-color:orange;
 }
+#bloghome{
+    
+}
+#blogbody{
+    background-color:cyan;
+}
+#blogtalk{
+     Color:red;
+    font-size:40px;
+    position:fixed;
+    right:29%;
+    left:33%;
+}
+#transcendgif{
+    height:600px;
+    width:600px;
+    position:fixed;
+    left:1%;
+}
+#transcendgif2{
+    height:600px;
+    width:600px;
+    position:fixed;
+    right:1%;
+}
+#bodyheader{
+    Color:red;
+    text-align:center;
+    font-size:50px;
+}
 #homeheader{
     Color:black;
     text-align:center;
@@ -27,6 +57,13 @@
     bottom:30%;
     right:10%;
     left:60%;
+    font-size:30px;
+}
+#ovelink{
+     Color:black;
+    position:fixed;
+    top:38%;
+    left:42.5%;
     font-size:30px;
 }
 #doto1{
@@ -148,6 +185,11 @@
     top:50%;
     right:10%;
     color:white;
+}
+#bloghome{
+    position:fixed;
+    right:47%;
+    bottom:5%;
 }
 .IDFhouse{
     position:fixed;
