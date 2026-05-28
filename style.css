@@ -179,6 +179,13 @@
     right:6%;
     color:white;
 }
+#lastone{
+    font-size:25px;
+    position:fixed;
+    bottom:20%;
+    right:65%;
+    color:white;
+}
 #historyme{
     font-size:30px;
     position:fixed;
